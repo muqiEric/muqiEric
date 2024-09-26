@@ -4,7 +4,7 @@
 - 💞️ I’m looking for some projects on computer vision to satisfy my curiosity about CV
 - 📫 How to reach me :muqi666666@gmail.com || 2382539324@qq.com
 - 😄 Pronouns: him
-- ⚡ Fun fact: I have a three-month internship program as a back-end engineer in iFlytek(the largest AI company in China)docking AI
+- ⚡ Fun fact: I had a three-month internship program as a back-end engineer in iFlytek(the largest AI company in China)docking AI
 
 <!---  
 muqiEric/muqiEric is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
